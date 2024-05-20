@@ -22,5 +22,3 @@ O funcionamento do script segue a seguinte ordem:
     * Ative a API do BigQuery: No seu projeto, ative a API do BigQuery.
     * Crie uma Conta de Serviço: No Google Cloud Console, crie uma conta de serviço e baixe o arquivo JSON de credenciais.
     * Defina a Variável de Ambiente: Defina a variável de ambiente GOOGLE_APPLICATION_CREDENTIALS para o caminho do arquivo JSON de credenciais. Exemplo: ```export GOOGLE_APPLICATION_CREDENTIALS="path/to/your/service-account-file.json"```
-
-
