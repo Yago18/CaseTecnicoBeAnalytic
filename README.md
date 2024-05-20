@@ -1,4 +1,4 @@
-# CaseTecnicoBeAnalytic
+# Case Técnico BeAnalytic
 Desafio de seleção da empresa BeAnalytic
 ---
 
