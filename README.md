@@ -12,6 +12,8 @@ pip install selenium pandas webdriver-manager google-cloud-bigquery google-auth
 pip install google-auth-oauthlib google-auth-httplib2 google-api-python-client google-cloud-bigquery pandas
 ```
 
+[NOTA] O WebDriver configurado no Selenium foi o MS Edge.
+
 O funcionamento do script segue a seguinte ordem:
 
 * Coleta dos dados do website informado;
